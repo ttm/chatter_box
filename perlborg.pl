@@ -23,7 +23,7 @@ my $lurk = 7000;
 my $delay = 333;
 
 # Bot Defaults
-my $name = "ccrma-borg";
+my $name = "borgypants";
 my %abbr = (
 				"perlborg" => 1,
 				"perlbot"  => 1,
@@ -31,7 +31,7 @@ my %abbr = (
 				"borg"     => 1,
 				"bot"      => 1,
 				"borgbot"  => 1,
-				"chatter_box" => 1
+				"borgypants" => 1
 			  );
 my %ignore;
 my %master = (
