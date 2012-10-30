@@ -1,2 +1,0 @@
-Can't locate Bot.pm in @INC (@INC contains: /usr/local/lib/perl5/5.6.0/sun4-solaris /usr/local/lib/perl5/5.6.0 /usr/local/lib/perl5/site_perl/5.6.0/sun4-solaris /usr/local/lib/perl5/site_perl/5.6.0 /usr/local/lib/perl5/site_perl .) at /home/borg/.perlborg/perlborg.pl line 91.
-BEGIN failed--compilation aborted at /home/borg/.perlborg/perlborg.pl line 91.
