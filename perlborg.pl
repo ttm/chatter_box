@@ -14,7 +14,7 @@
 
 ### Defaults ###
 
-my $owner = "thealphanerd";
+my $owner = "hybrid";
 
 # Speech Defaults
 my $depth = 10;
@@ -23,7 +23,7 @@ my $lurk = 7000;
 my $delay = 333;
 
 # Bot Defaults
-my $name = "borgypants";
+my $name = "cibeleborg";
 my %abbr = (
 				"perlborg" => 1,
 				"perlbot"  => 1,
@@ -44,7 +44,7 @@ my %dropin;
 my $serv = "irc.freenode.net";
 my $port = 6667;
 my $user = "borg";
-my $chan = "#ccrma";
+my $chan = "#labmacambira";
 
 my $babble = "";
 my $console = "";
